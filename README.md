@@ -1,4 +1,4 @@
 # USEK
 projects done in my bachelor degree
+Mainly data structures and algorithms
 
-the projects are from different topics and specialties
